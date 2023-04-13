@@ -48,3 +48,5 @@ python camera_ffplay_test.py  # run ffplay test demo
 -  Camera image in RViz
 TODO
 
+## Step4: Calibrate your camera
+Follow the README in /RpiCamera/camera_calibration, finish the calibration.
