@@ -55,6 +55,8 @@ To achieve high-quality calibration results during camera calibration, it is imp
 
 In summary, the motion during camera calibration should be as diverse as possible to ensure the accuracy and robustness of the calibration results. When capturing the calibration board's image, it is important to avoid factors that could affect the image quality, such as occlusion, motion blur, and mirror reflection, to obtain clear and accurate calibration images.
 
+**After calibration, close the calibration tool terminal, and continue with camera_calibrate.sh in the original terminal.**
+
 ## Step 5: Reboot and Check Performance
 ### Reboot the Mini Pupper and Check Topic Information
 
